@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://MopicMP.github.io/better-css-flexbox-docs/index.html</loc><priority>1.0</priority></url>
+  <url><loc>https://MopicMP.github.io/better-css-flexbox-docs/display-flex.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-css-flexbox-docs/flex-direction.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-css-flexbox-docs/justify-content.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-css-flexbox-docs/align-items.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-css-flexbox-docs/align-self.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-css-flexbox-docs/flex-wrap.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-css-flexbox-docs/flex-grow.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-css-flexbox-docs/flex-shrink.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-css-flexbox-docs/flex-basis.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-css-flexbox-docs/order.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-css-flexbox-docs/gap.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-css-flexbox-docs/align-content.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-css-flexbox-docs/flex-flow.html</loc><priority>0.8</priority></url>
+</urlset>
